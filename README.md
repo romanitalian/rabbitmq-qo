@@ -17,3 +17,7 @@
 
 3. Прочитать сообщение из rabbitmq
 > go run cmd/consumer/main.go
+
+
+
+> make build && make publishmake consume
